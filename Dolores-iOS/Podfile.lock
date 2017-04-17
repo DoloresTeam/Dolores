@@ -1,0 +1,44 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - EaseUILite (3.3.1):
+    - MJRefresh (~> 3.1.0)
+    - MWPhotoBrowser (~> 2.1.1)
+  - HyphenateLite (3.3.1)
+  - Masonry (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.12)
+  - MWPhotoBrowser (2.1.2):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - EaseUILite (from `https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git`)
+  - HyphenateLite
+  - Masonry (~> 1.0.0)
+
+EXTERNAL SOURCES:
+  EaseUILite:
+    :git: https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git
+
+CHECKOUT OPTIONS:
+  EaseUILite:
+    :commit: c9d710f75c8509826c9e145477f5acee1cf8bef9
+    :git: https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  EaseUILite: d405141e789d55ef97528b88871d558dc89f20ea
+  HyphenateLite: 1a2f256d85f3ed269351bbd9d95cf98d902b5b4f
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MWPhotoBrowser: 5836d7aa041dc05a13de380c246826578adc5ea5
+  SDWebImage: '098e97e6176540799c27e804c96653ee0833d13c'
+
+PODFILE CHECKSUM: c73386003fceb45d976a76653b11a33ade0ea381
+
+COCOAPODS: 1.2.0
