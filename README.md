@@ -128,7 +128,7 @@ Dolores 初始版本使用Golang实现，大家既可以下载各个平台的可
 我们有独立的repo来帮助您，运行后端服务。[请移步这里](https://github.com/DoloresTeam/dolores-server)
 
 ### 客户端
-我们现在有提供一个iOS版的Demo。[请移步这里]()
+我们现在有提供一个iOS版的Demo。[请移步这里](htttps://github.com/DoloresTeam/dolores-ios)
 
 ### Done
 如果您顺利的完成以上三步，访问 http://localhost:3280 (端口号根据自己的配置，可能会有差异)，使用 `username: admin, password: dolores` 登陆后端管理页面，添加权限规则，添加角色，添加员工、部门，然后使用iOS客户端登陆，就可以愉快的开始聊天啦～
